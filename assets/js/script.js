@@ -22,3 +22,8 @@ $(document).ready(function(){
   });
 });
 
+//Inicialización Tooltip
+$(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
