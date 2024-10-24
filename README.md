@@ -1,7 +1,9 @@
 # ¡Hola! 👋
 <br>
 
-Puedes ver el diseño de la página en el siguiente link: [Ir](https://yadicep.github.io/VIAJES_CHILE/)
+Puedes ver el diseño de la página en el siguiente link:
+
+[Ir al sitio](https://yadicep.github.io/VIAJES_CHILE/)
 
 
 <br>
