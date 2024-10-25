@@ -1,9 +1,6 @@
 # HTML 5 + JavaScript + CSS + Bootstrap 👋  
 <br>
 
-**VIAJES CHILE**
-<br>
-<br>
 This template should help you get started designing a page, check out the following tutorials to learn more:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50">](https://www.w3schools.com/html/)
